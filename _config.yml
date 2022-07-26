@@ -92,7 +92,7 @@ content:
         sub_title: Master of Computer Applications
         quote: >
         
-         description: | # this will include new lines to allow paragraphs
+        description: | # this will include new lines to allow paragraphs
          Here I studied.
   
       - title: Pondicherry Univers
@@ -100,7 +100,7 @@ content:
         sub_title: Master of Computer Applications
         quote: >
         
-         description: | # this will include new lines to allow paragraphs
+        description: | # this will include new lines to allow paragraphs
          Thank you
     
      
