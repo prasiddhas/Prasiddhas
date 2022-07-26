@@ -93,9 +93,8 @@ content:
         quote: >
         
          description: | # this will include new lines to allow paragraphs
-    content:
-      - layout: left
-        title: Pondicherry University
+  
+      - title: Pondicherry Univers
         caption: 2017 - 2020
         sub_title: Master of Computer Applications
         quote: >
