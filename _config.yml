@@ -93,21 +93,21 @@ content:
         quote: >
           --------------------------description: | # this will include new lines to allow paragraphs
         -----------------------
-         content:
-      - layout: left
+     
         title: Gauhati University
         caption: 2015 - 2017
         sub_title: M.Sc. in Mathematics
         quote: >
-          --------------------------description: | # this will include new lines to allow paragraphs
+        
+          description: | # this will include new lines to allow paragraphs
         -----------------------
-         content:
-      - layout: left
+       
         title: Gauhati University
         caption: 2012 - 2015
         sub_title: B.Sc. in Mathematics
         quote: >
-          --------------------------description: | # this will include new lines to allow paragraphs
+       
+          description: | # this will include new lines to allow paragraphs
  
 
 # Footer
