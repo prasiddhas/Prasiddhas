@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/PassportPhotoAssam.jpg
+about_profile_image: images/1.jpg
 about_content: | # this will include new lines to allow paragraphs
  Hello, This is Prasiddha Sarma, a research scholar from Department of Computer Science and Engineering, Tezpur University. 
  My area of interests are: <mark>Deep Learning</mark>, <mark>Computer Vision</mark> and <mark>Information Retrieval</mark>
@@ -85,6 +85,14 @@ content:
            My work here is to understand the various Human Posture Estimation challenges and to deal with those. Along with these, Teaching Assistant duties are being performed.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Pondicherry University
+        caption: 2017 - 2020
+        sub_title: Master of Computer Applications
+        quote: >
+        
+         description: | # this will include new lines to allow paragraphs
     content:
       - layout: left
         title: Pondicherry University
