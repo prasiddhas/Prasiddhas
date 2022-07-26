@@ -90,7 +90,8 @@ content:
         title: Pondicherry University
         caption: 2017 - 2020
         sub_title: Master of Computer Applications (MCA)
-        quote: > CGPA : 9.55
+        quote: > 
+         CGPA : 9.55
         
         description: 
          During these 3 years of studies, I have learnt the core and few advanced topics from Computer Science and Applications. I have attended various workshop, seminars in institutes such as IIT Kanpur, IIT Bombay, TIFR Mumbai, University of Hyderabad, Pondicherry Engineering College in this tenure of study.
@@ -99,7 +100,8 @@ content:
       - title: Gauhati University
         caption: 2015 - 2017
         sub_title: M.Sc. in Mathematics
-        quote: > CGPA : 6.95
+        quote: > 
+         CGPA : 6.95
         
         description: 
          In this period, I have studied various topics e.g., Real Analysis, Fluid Dynamics, Space Dynamics, Advanced PDE, Astrophysics, Operation Research etc. And able to learn few mathematical concepts relating to Plasma Physics.
