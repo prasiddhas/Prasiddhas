@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
- Hello, This is Prasiddha Sarma, a research scholar from Department of Computer Science, Tezpur University. 
+ Hello, This is Prasiddha Sarma, a research scholar from Department of Computer Science and Engineering, Tezpur University. 
  My area of interests are: <mark>Deep Learning</mark>, <mark>Computer Vision</mark> and <mark>Information Retrieval</mark>
 
 content:
