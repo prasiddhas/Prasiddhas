@@ -95,22 +95,7 @@ content:
          description: | # this will include new lines to allow paragraphs
     
      
-        title: Gauhati University
-        caption: 2015 - 2017
-        sub_title: M.Sc. in Mathematics
-        quote: >
-        
-        description: | # this will include new lines to allow paragraphs
-        -----------------------
-       
-        title: Gauhati University
-        caption: 2012 - 2015
-        sub_title: B.Sc. in Mathematics
-        quote: >
-       
-          description: | # this will include new lines to allow paragraphs
- 
-
+     
 # Footer
 #footer_show_references: true
 # references_title: References on request (Override references text)
