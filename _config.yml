@@ -81,7 +81,7 @@ content:
         caption: September 2020 - Present
         quote: >
          Human Posture Estimation is becoming a spectacular area of research
-        description: | # this will include new lines to allow paragraphs
+        description: 
            My work here is to understand the various Human Posture Estimation challenges and to deal with those. Along with these, Teaching Assistant duties are being performed.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -89,25 +89,25 @@ content:
       - layout: left
         title: Pondicherry University
         caption: 2017 - 2020
-        sub_title: Master of Computer Applications
-        quote: >
+        sub_title: Master of Computer Applications (MCA)
+        quote: > CGPA : 9.55
         
-        description: | # this will include new lines to allow paragraphs
-         Here I studied.
+        description: 
+         During these 3 years of studies, I have learnt the core and few advanced topics from Computer Science and Applications. I have attended various workshop, seminars in institutes such as IIT Kanpur, IIT Bombay, TIFR Mumbai, University of Hyderabad, Pondicherry Engineering College in this tenure of study.
+         Undergone a Summer Internship programme in ICT Academy, IIT Kanpur in the year 2019. Attended MCA Symposium 2018 in NIT Trichy.
   
-      - title: Pondicherry Univers
-        caption: 2017 - 2020
-        sub_title: Master of Computer Applications
-        quote: >
+      - title: Gauhati University
+        caption: 2015 - 2017
+        sub_title: M.Sc. in Mathematics
+        quote: > CGPA : 6.95
         
-        description: | # this will include new lines to allow paragraphs
-         Thank you
-    
+        description: 
+         In this period, I have studied various topics e.g., Real Analysis, Fluid Dynamics, Space Dynamics, Advanced PDE, Astrophysics, Operation Research etc. And able to learn few mathematical concepts relating to Plasma Physics.
      
      
 # Footer
 #footer_show_references: true
-# references_title: References on request (Override references text)
+# references_title: (Theme is Collected from : sproogen/resume-theme)
 
 # Build settings
 remote_theme: sproogen/resume-theme
