@@ -15,7 +15,7 @@ email: prasi.s@tezu.ernet.in
 darkmode: false
 
 # Social links
-twitter_username: PrasiddhaSarma
+twitter_username: prasiddhas
 github_username:  prasiddhas
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
@@ -48,13 +48,29 @@ linkedin_username: PrasiddhaSarma
 # about_title: About Me
 about_profile_image: images/XYZ.jpg
 about_content: | # this will include new lines to allow paragraphs
- Hello, This is Prasiddha Sarma, a research scholar from Department of Computer Science and Engineering, Tezpur University. 
- My area of interests are: <mark>Deep Learning</mark>, <mark>Computer Vision</mark> and <mark>Information Retrieval</mark>
+ Hello, This is Prasiddha Sarma, a research scholar under the supervision of Dr. S. Ibotombi Singh in the Department of Computer Science and Engineering, Tezpur University. 
+ My area of interests are: <mark>Human Action Recognition</mark>, <mark>Deep Learning</mark>, <mark>Computer Vision</mark> and <mark>Information Retrieval</mark>
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: top-middle
+        title: Delinquency Prediction in Telecom
+        #link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - #title:  sproogen/modern-resume-theme
+            #icon: fab fa-github
+            #url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This work dealt with finding the delinquent customer from a telecom service provider database. I was assigned to this project during my Summer Internship period at ICT Academy, IIT Kanpur.
+        description: | # this will include new lines to allow paragraphs
+         I learnt various Machine Learning frameworks and their implementation starategies for real world problems during the internship period.  
+     content:
       - layout: top-middle
         title: Delinquency Prediction in Telecom
         #link: github.com/sproogen
