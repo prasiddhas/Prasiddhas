@@ -71,7 +71,7 @@ content:
         description: | # this will include new lines to allow paragraphs
          I learnt various Machine Learning frameworks and their implementation starategies for real world problems during the internship period.   
       - layout: top-middle
-        title: Delinquency Prediction in Telecom
+        title: Solution of Korteweg-De Vries Equations 
         #link: github.com/sproogen
         # link_text: Project Website
         additional_links:
@@ -82,9 +82,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This work dealt with finding the delinquent customer from a telecom service provider database. I was assigned to this project during my Summer Internship period at ICT Academy, IIT Kanpur.
+         Associated with the course M.Sc in Mathematics. This work dealt with finding solutions of Korteweg-De Vries Equations with various parameters.
         description: | # this will include new lines to allow paragraphs
-         I learnt various Machine Learning frameworks and their implementation starategies for real world problems during the internship period.  
+         Learned various derivations relating to Plasma Physics.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
