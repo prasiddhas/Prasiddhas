@@ -102,23 +102,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Aim of this was to investigate the behavior of plasma waves and their interaction with the surrounding medium by solving the Korteweg-de Vries (KdV) equation
           using numerical methods.
-      - layout: top-middle
-        title: Solution of Transcendental equations using Numerical Methods : A C Programming Approach
-        #link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - #title:  sproogen/modern-resume-theme
-            #icon: fab fa-github
-            #url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-         Associated with the course B.Sc. in Mathematics. 
-        description: | # this will include new lines to allow paragraphs
-          As part of my academic coursework, I undertook a project that involved developing a computational tool for solving transcendental equations using
-          numerical methods in C programming. The aim of the project was to provide a versatile and efficient software tool that could be used to solve a wide range of transcendental equations encountered in various scientific and engineering applications.
-
+     
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
