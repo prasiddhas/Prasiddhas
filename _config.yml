@@ -85,7 +85,7 @@ content:
         quote: >
           This work dealt with finding the delinquent customer from a telecom service provider database. I was assigned to this project during my Summer Internship period at ICT Academy, IIT Kanpur.
         description: | # this will include new lines to allow paragraphs
-         I learnt various Machine Learning frameworks and their implementation starategies for real world problems during the internship period.  
+         I learnt various Machine Learning frameworks and their implementation strategies for real world problems during the internship period.  
       - layout: top-middle
         title: Solution of Korteweg-De Vries Equations 
         #link: github.com/sproogen
