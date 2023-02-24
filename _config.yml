@@ -56,6 +56,22 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: Yoga Posture Recognition using Convolutional Neural Networks
+        #link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - #title:  sproogen/modern-resume-theme
+            #icon: fab fa-github
+            #url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+         This project was associated with the course MCA (Major Project).
+        description: | # this will include new lines to allow paragraphs
+         I used convolutional neural networks (CNN) to train a model on a dataset of images of 10 different yoga postures, which were collected from Web using scraping methods. The dataset was preprocessed and augmented to increase the model's ability to generalize to new images. I then evaluated the model's performance using metrics such as accuracy, precision, recall, and F1 score.
+         This project has potential applications in the development of fitness apps, yoga training programs, and healthcare systems for monitoring and tracking patients' physical rehabilitation progress.
+      - layout: top-middle
         title: Delinquency Prediction in Telecom
         #link: github.com/sproogen
         # link_text: Project Website
@@ -69,7 +85,7 @@ content:
         quote: >
           This work dealt with finding the delinquent customer from a telecom service provider database. I was assigned to this project during my Summer Internship period at ICT Academy, IIT Kanpur.
         description: | # this will include new lines to allow paragraphs
-         I learnt various Machine Learning frameworks and their implementation starategies for real world problems during the internship period.   
+         I learnt various Machine Learning frameworks and their implementation starategies for real world problems during the internship period.  
       - layout: top-middle
         title: Solution of Korteweg-De Vries Equations 
         #link: github.com/sproogen
